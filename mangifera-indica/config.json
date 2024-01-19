@@ -1,0 +1,28 @@
+{
+  "assemblies": [
+    {
+      "name": "mangifera-indica.fna",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "mangifera-indica.fna-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "mangifera-indica.fna",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "mangifera-indica.fna.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    }
+  ],
+  "configuration": {},
+  "connections": [],
+  "defaultSession": {
+    "name": "New Session"
+  },
+  "tracks": []
+}
