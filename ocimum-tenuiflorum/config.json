@@ -1,0 +1,28 @@
+{
+  "assemblies": [
+    {
+      "name": "ocimum-tenuiflorum.fna",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "ocimum-tenuiflorum.fna-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "ocimum-tenuiflorum.fna",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "ocimum-tenuiflorum.fna.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    }
+  ],
+  "configuration": {},
+  "connections": [],
+  "defaultSession": {
+    "name": "New Session"
+  },
+  "tracks": []
+}
