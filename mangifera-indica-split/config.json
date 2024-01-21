@@ -1,0 +1,100 @@
+{
+  "assemblies": [
+    {
+      "name": "mangifera-indica-0",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "mangifera-indica-0-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "mangifera-indica-0.fa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "mangifera-indica-0.fa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    },
+    {
+      "name": "mangifera-indica-1",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "mangifera-indica-1-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "mangifera-indica-1.fa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "mangifera-indica-1.fa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    },
+    {
+      "name": "mangifera-indica-2",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "mangifera-indica-2-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "mangifera-indica-2.fa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "mangifera-indica-2.fa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    },
+    {
+      "name": "mangifera-indica-3",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "mangifera-indica-3-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "mangifera-indica-3.fa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "mangifera-indica-3.fa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    },
+    {
+      "name": "mangifera-indica-4",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "mangifera-indica-4-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "mangifera-indica-4.fa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "mangifera-indica-4.fa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    }
+  ],
+  "configuration": {},
+  "connections": [],
+  "defaultSession": {
+    "name": "New Session"
+  },
+  "tracks": []
+}
