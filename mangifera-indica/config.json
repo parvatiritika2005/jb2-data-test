@@ -12,7 +12,7 @@
             "locationType": "UriLocation"
           },
           "faiLocation": {
-            "uri": "https://raw.githubusercontent.com/parvatiritika2005/jb2-data-test/master/mangifera-indica/mangifera-indica.fna.fai",
+            "uri": "https://github.com/parvatiritika2005/jb2-data-test/raw/master/mangifera-indica/mangifera-indica.fna.fai",
             "locationType": "UriLocation"
           }
         }
